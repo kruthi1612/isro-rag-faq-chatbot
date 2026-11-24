@@ -1,0 +1,1202 @@
+[
+  {
+    "query_id": "FAQ_001",
+    "split": "dev",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "What is the minimum percentage or CGPA required for Post Code BE001?",
+    "ground_truth_answer": "BE/B.Tech or equivalent in Electronics & Communication Engineering with an aggregate minimum of 65% marks or CGPA 6.84/10.",
+    "supporting_chunk_id": "BE001_chunk_1",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_002",
+    "split": "dev",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "What is the minimum CGPA required for Scientist/Engineer 'SC' (Mechanical) Post Code BE002?",
+    "ground_truth_answer": "An aggregate minimum of 65% marks or CGPA 6.84/10 in BE/B.Tech or equivalent in Mechanical Engineering.",
+    "supporting_chunk_id": "BE002_chunk_1",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_003",
+    "split": "dev",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "Are candidates with a BE/B.Tech in Artificial Intelligence and Machine Learning eligible for Post Code BE003?",
+    "ground_truth_answer": "Yes, Computer Science and Engineering - Artificial Intelligence and Machine Learning (AI&ML) is listed as an eligible specialized field for Scientist/Engineer 'SC' (Computer Science) (BE-003 & BE-003A).",
+    "supporting_chunk_id": "FAQS_chunk_36",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_004",
+    "split": "dev",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "Can a candidate with 6.5 CGPA apply if their university conversion formula gives more than 65%?",
+    "ground_truth_answer": "No. Candidates with CGPA/CPI mentioned on the University certificate are not allowed to convert the CGPA/CPI into percentage; a minimum 6.84 CGPA/CPI is mandatory.",
+    "supporting_chunk_id": "FAQS_chunk_30",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_005",
+    "split": "dev",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "Are MCA graduates eligible to apply for Scientist/Engineer 'SC' under Advt No. ISRO ICRB:03(EMC):2026?",
+    "ground_truth_answer": "No, MCA candidates are not eligible to apply.",
+    "supporting_chunk_id": "FAQS_chunk_28",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_006",
+    "split": "dev",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "Is a candidate who completed a 4-year BE/B.Tech course in 5 years due to backlogs eligible?",
+    "ground_truth_answer": "No. Candidates must complete the course within the minimum period stipulated for completion of the course by the University.",
+    "supporting_chunk_id": "FAQS_chunk_20",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_007",
+    "split": "dev",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "Are candidates with a BE/B.Tech degree acquired through correspondence eligible?",
+    "ground_truth_answer": "No, candidates who acquired their BE/B.Tech degree through a correspondence course are not eligible to apply.",
+    "supporting_chunk_id": "FAQS_chunk_38",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_008",
+    "split": "val",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "Are part-time BE/B.Tech degree holders eligible for Scientist/Engineer 'SC'?",
+    "ground_truth_answer": "Yes, subject to fulfillment of all other terms and conditions mentioned in the advertisement.",
+    "supporting_chunk_id": "FAQS_chunk_39",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_009",
+    "split": "val",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "Is there any relaxation in the 65% marks criteria for SC/ST/OBC/PwBD candidates?",
+    "ground_truth_answer": "No. There is no relaxation in Educational Qualification or minimum marks for any categories.",
+    "supporting_chunk_id": "FAQS_chunk_24",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_010",
+    "split": "val",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "If a candidate has >65% in M.Tech but <65% in B.E./B.Tech, can they apply for Scientist/Engineer 'SC'?",
+    "ground_truth_answer": "No. Candidates must hold a B.E./B.Tech in First Class with an aggregate minimum of 65% marks or CGPA 6.84/10 across all semesters.",
+    "supporting_chunk_id": "FAQS_chunk_25",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_011",
+    "split": "val",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "What is the eligibility rule for AMIE candidates regarding registration date and marks?",
+    "ground_truth_answer": "AMIE candidates must have registered on or before 31.05.2013 and must have secured at least 65% marks or CGPA 6.84 in Section 'B' alone.",
+    "supporting_chunk_id": "FAQS_chunk_27",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_012",
+    "split": "val",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "Are Aeronautical and Aerospace Engineering graduates eligible for Post Code BE002?",
+    "ground_truth_answer": "Yes, both Aeronautical Engineering and Aerospace Engineering are listed among the eligible specialized fields for Scientist/Engineer 'SC' (Mechanical) (BE-002 & BE-002A).",
+    "supporting_chunk_id": "FAQS_chunk_35",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_013",
+    "split": "val",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "Is Avionics an eligible branch for Scientist/Engineer 'SC' (Electronics) BE-001?",
+    "ground_truth_answer": "Yes, Avionics is listed under the eligible specialized fields for Scientist/Engineer 'SC' Electronics (BE-001 & BE-001A).",
+    "supporting_chunk_id": "FAQS_chunk_34",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_014",
+    "split": "val",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "Are Lateral Entry candidates (Diploma + B.E./B.Tech) eligible for Scientist/Engineer 'SC'?",
+    "ground_truth_answer": "Yes, Diploma + B.E./B.Tech (Lateral Entry) and B.Sc. + B.E./B.Tech (Lateral Entry) are considered equivalent degrees.",
+    "supporting_chunk_id": "FAQS_chunk_33",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_015",
+    "split": "test",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "How is eligibility calculated for Dual or Integrated Degree programmes?",
+    "ground_truth_answer": "If separate CGPA/percentage is mentioned for Graduation and Post-Graduation, the graduation-level score is reckoned; if only a common score is given, that final score is used.",
+    "supporting_chunk_id": "ADVT_2708_chunk_3",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_016",
+    "split": "test",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What is the essential qualification for Technical Assistant in Mechanical Engineering (Post Code 07) at SDSC SHAR?",
+    "ground_truth_answer": "First Class Diploma in Mechanical Engineering of minimum 3 years duration from a recognised University or Institution.",
+    "supporting_chunk_id": "SHAR_chunk_1",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_017",
+    "split": "test",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What qualification is needed for Scientific Assistant in Physics (Post Code 12) at SDSC SHAR?",
+    "ground_truth_answer": "First Class B.Sc. with Physics as main subject and Mathematics & Chemistry as ancillary subjects from a recognised University or Institution.",
+    "supporting_chunk_id": "SHAR_chunk_2",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_018",
+    "split": "test",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What are the essential qualifications for Library Assistant 'A' (Post Code 14) at SDSC SHAR?",
+    "ground_truth_answer": "Graduation in First Class plus First Class Master's Degree in Library Science / Library & Information Science or equivalent from a recognised University/Institution.",
+    "supporting_chunk_id": "SHAR_chunk_3",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_019",
+    "split": "test",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What is the required qualification for Nurse 'B' (Post Code 15) at SDSC SHAR?",
+    "ground_truth_answer": "First Class Diploma in Nursing course of not less than three years duration recognised by State/Central Government, registered with the respective State Nursing Council.",
+    "supporting_chunk_id": "SHAR_chunk_3",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_020",
+    "split": "test",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What qualification is required for Technician 'B' Electrician (Post Code 16) at SDSC SHAR?",
+    "ground_truth_answer": "SSLC / SSC pass plus ITI / NTC / NAC in Electrician Trade from NCVT.",
+    "supporting_chunk_id": "SHAR_chunk_4",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_021",
+    "split": "test",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "Which ITI trades are accepted for Technician 'B' Chemical (Post Code 17) at SDSC SHAR?",
+    "ground_truth_answer": "SSLC/SSC pass plus ITI/NTC/NAC from NCVT in Chemical, Attendant Operator (Chemical), Instrument Mechanic (Chemical), Maintenance Mechanic (Chemical Plant), or Laboratory Assistant (Chemical).",
+    "supporting_chunk_id": "SHAR_chunk_4",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_022",
+    "split": "test",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What additional certificate is required for Technician 'B' Boiler Attendant (Post Code 20)?",
+    "ground_truth_answer": "SSLC/SSC pass plus NAC in Boiler Attendant Trade from NCVT along with a First Class Boiler Attendant certificate.",
+    "supporting_chunk_id": "SHAR_chunk_5",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_023",
+    "split": "test",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What is the essential qualification and experience for Light Vehicle Driver 'A' (Post Code 27)?",
+    "ground_truth_answer": "SSLC/SSC/Matric/10th pass, 3 years experience as Light Vehicle Driver after obtaining a valid LVD license, and possession of a valid LVD license.",
+    "supporting_chunk_id": "SHAR_chunk_6",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_024",
+    "split": "test",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What driving experience is required for Heavy Vehicle Driver 'A' (Post Code 28) at SDSC SHAR?",
+    "ground_truth_answer": "5 years total experience, of which at least 3 years must be as Heavy Vehicle Driver and the balance period driving light motor vehicles, plus valid HVD license and Public Service Badge (if statutory).",
+    "supporting_chunk_id": "SHAR_chunk_7",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_025",
+    "split": "test",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "Is part-time driving experience counted for Post Codes 27, 28, and 30?",
+    "ground_truth_answer": "No, part-time experience is not considered, and experience certificates from individuals are not accepted.",
+    "supporting_chunk_id": "SHAR_chunk_9",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_026",
+    "split": "test",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What is the minimum qualification for Multi-Tasking Staff (MTS) Post Code 29?",
+    "ground_truth_answer": "Matriculation / SSLC / SSC or equivalent pass.",
+    "supporting_chunk_id": "SHAR_chunk_8",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_027",
+    "split": "test",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "What is the essential qualification for Technical Assistant (Automobile Engineering) Post Code 60 at IPRC?",
+    "ground_truth_answer": "First Class Diploma in Automobile Engineering.",
+    "supporting_chunk_id": "IPRC_chunk_1",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_028",
+    "split": "test",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "Is a Diploma in Production Engineering eligible for Post Code 61 Technical Assistant (Mechanical) at IPRC?",
+    "ground_truth_answer": "Yes, First Class Diploma in Mechanical Engineering OR Production Engineering is eligible for Post Code 61.",
+    "supporting_chunk_id": "IPRC_chunk_1",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_029",
+    "split": "test",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "Which diploma branches are accepted for Post Code 62 Technical Assistant (Electronics & Communication) at IPRC?",
+    "ground_truth_answer": "First Class Diploma in Electronics, Electronics & Communication, Electronics & Telecommunication, or Electronics & Instrumentation Engineering.",
+    "supporting_chunk_id": "IPRC_chunk_1",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_030",
+    "split": "test",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "What experience is required for Cook 'A' (Post Code 70) at IPRC Mahendragiri?",
+    "ground_truth_answer": "Pass in SSLC/SSC/Matric/10th Std. AND 5 years experience as Cook in a well-established Hotel/Canteen (experience certificates from individuals are not accepted).",
+    "supporting_chunk_id": "IPRC_chunk_2",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_031",
+    "split": "test",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "Are equivalent courses allowed for posts advertised under IPRC/RMT/2026/01?",
+    "ground_truth_answer": "No. Those who possess the exact qualifications prescribed in the IPRC advertisement only shall apply; no equivalent courses will be considered eligible.",
+    "supporting_chunk_id": "IPRC_chunk_9",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_032",
+    "split": "test",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "What are the minimum height and weight requirements for General category male candidates applying for Fireman 'A' (Post Code 71)?",
+    "ground_truth_answer": "Minimum height of 165 cm and minimum weight of 50 kg (with BMI 18-28).",
+    "supporting_chunk_id": "IPRC_chunk_4",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_033",
+    "split": "test",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "What is the minimum height requirement for female and transgender candidates for Fireman 'A'?",
+    "ground_truth_answer": "Minimum height of 155 cm and minimum weight of 43 kg.",
+    "supporting_chunk_id": "IPRC_chunk_4",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_034",
+    "split": "test",
+    "category": "Eligibility & Qualification",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "Who is authorized to issue the Preliminary Medical Examination (PME) Certificate for Fireman 'A'?",
+    "ground_truth_answer": "A Government Medical Officer (Allopathy) not below the rank of Assistant Civil Surgeon employed in Government Health Services; the certificate is valid for 6 months.",
+    "supporting_chunk_id": "IPRC_chunk_5",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_035",
+    "split": "dev",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "How many total vacancies are notified for Scientist/Engineer 'SC' (Electronics) Post Code BE001?",
+    "ground_truth_answer": "99 vacancies are notified for Post Code BE001.",
+    "supporting_chunk_id": "ADVT_2708_chunk_1",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_036",
+    "split": "dev",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "What is the number of vacancies for Scientist/Engineer 'SC' (Mechanical) Post Code BE002?",
+    "ground_truth_answer": "52 vacancies are notified for Post Code BE002.",
+    "supporting_chunk_id": "ADVT_2708_chunk_1",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_037",
+    "split": "dev",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "How many vacancies are available for Scientist/Engineer 'SC' (Computer Science) Post Code BE003?",
+    "ground_truth_answer": "21 vacancies are notified for Post Code BE003.",
+    "supporting_chunk_id": "ADVT_2708_chunk_1",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_038",
+    "split": "dev",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "How many vacancies are advertised for Autonomous Body PRL under Post Codes BE001A, BE002A, and BE003A?",
+    "ground_truth_answer": "01 vacancy each for BE001A (Electronics), BE002A (Mechanical), and BE003A (Computer Science) at PRL.",
+    "supporting_chunk_id": "ADVT_2708_chunk_2",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_039",
+    "split": "dev",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "What minimum percentage of disability is required for PwBD reservation eligibility?",
+    "ground_truth_answer": "Only persons who suffer from not less than 40% of relevant disability are eligible for reservation.",
+    "supporting_chunk_id": "ADVT_2708_chunk_4",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_040",
+    "split": "val",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "Are Scientist/Engineer 'SC' posts meant exclusively for Scheduled Caste candidates?",
+    "ground_truth_answer": "No. 'Scientist/Engineer SC' is only a post designation and does not pertain to any specific caste or religion.",
+    "supporting_chunk_id": "FAQS_chunk_23",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_041",
+    "split": "val",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "What happens if a suitable PwBD candidate is not found for a backlog PwBD vacancy?",
+    "ground_truth_answer": "The post may be filled by interchange among the five PwBD categories (A to E); if no suitable PwBD candidate is available at all, it will be filled by a person without disability.",
+    "supporting_chunk_id": "ADVT_2708_chunk_3",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_042",
+    "split": "val",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "How many vacancies exist for Technical Assistant Mechanical (Post Code 07) at SDSC SHAR and what is the category breakup?",
+    "ground_truth_answer": "07 vacancies: UR-01, OBC-01, SC-02, ST-02, and EWS-01 (including 01 post identified for PwBD-HH).",
+    "supporting_chunk_id": "SHAR_chunk_1",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_043",
+    "split": "val",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "How many vacancies are available for Technical Assistant Electronics & Communication (Post Code 10) at SDSC SHAR?",
+    "ground_truth_answer": "03 vacancies (UR-02 and SC-01) across SDSC SHAR Sriharikota and Propellant Complex Rasayani.",
+    "supporting_chunk_id": "SHAR_chunk_2",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_044",
+    "split": "val",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What is the number of vacancies for Technician 'B' Fitter (Post Code 18) at SDSC SHAR?",
+    "ground_truth_answer": "17 vacancies: UR-05, OBC-08, SC-02, and EWS-02 (with 01 post identified for PwBD-HH).",
+    "supporting_chunk_id": "SHAR_chunk_4",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_045",
+    "split": "test",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "How many vacancies are notified for Technician 'B' Electronic Mechanic (Post Code 19)?",
+    "ground_truth_answer": "12 vacancies: UR-04, OBC-06, and EWS-02.",
+    "supporting_chunk_id": "SHAR_chunk_5",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_046",
+    "split": "test",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "How many vacancies are there for Multi-Tasking Staff (Post Code 29) at SDSC SHAR?",
+    "ground_truth_answer": "16 vacancies: UR-06, OBC-04, SC-03, ST-01, and EWS-02.",
+    "supporting_chunk_id": "SHAR_chunk_8",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_047",
+    "split": "test",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "How many posts are identified for Ex-Servicemen across Post Codes 16 to 28 in SDSC SHAR/RMT/03/2026?",
+    "ground_truth_answer": "07 posts are identified for Ex-Servicemen (ESM) from Post Code 16 to 28.",
+    "supporting_chunk_id": "SHAR_chunk_8",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_048",
+    "split": "test",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "Where are the 04 vacancies for Light Vehicle Driver 'A' (Post Code 30) located?",
+    "ground_truth_answer": "At Advanced Data Processing Research Institute (ADRIN), Secunderabad, Telangana (UR-03, OBC-01, with 01 UR vacancy for Ex-Servicemen).",
+    "supporting_chunk_id": "SHAR_chunk_8",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_049",
+    "split": "test",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "Where is the place of posting for Technician 'B' Boiler Attendant (Post Code 20)?",
+    "ground_truth_answer": "Propellant Complex Rasayani (PCR Unit), Raigad, Maharashtra (02 UR vacancies).",
+    "supporting_chunk_id": "SHAR_chunk_5",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_050",
+    "split": "test",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What are the two posting locations for Scientific Assistant Physics (Post Code 12)?",
+    "ground_truth_answer": "SDSC SHAR, Sriharikota (Andhra Pradesh) and Balasore Rocket Launching Station (BRLS), Balasore (Odisha).",
+    "supporting_chunk_id": "SHAR_chunk_10",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_051",
+    "split": "test",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "Do SC/ST/OBC/EWS candidates need to submit a separate application to be considered for Unreserved (UR) posts?",
+    "ground_truth_answer": "No. SC/ST/OBC/EWS candidates need not apply separately for UR posts; they will be considered for UR posts if they fulfill general conditions.",
+    "supporting_chunk_id": "SHAR_chunk_26",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_052",
+    "split": "test",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "For which financial year must EWS candidates produce their Income and Asset Certificate for SDSC SHAR/RMT/03/2026?",
+    "ground_truth_answer": "Income and Asset Certificate for Financial Year 2025-2026, valid for the year 2026-2027.",
+    "supporting_chunk_id": "SHAR_chunk_26",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_053",
+    "split": "test",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "How many total vacancies are advertised in IPRC Advertisement No. IPRC/RMT/2026/01?",
+    "ground_truth_answer": "22 total vacancies across Post Codes 60 to 71 at IPRC Mahendragiri.",
+    "supporting_chunk_id": "IPRC_chunk_2",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_054",
+    "split": "test",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "What is the vacancy breakup for Technician 'B' Fitter (Post Code 64) at IPRC?",
+    "ground_truth_answer": "04 vacancies (OBC-03, EWS-01), out of which 1 post is reserved for Ex-Servicemen (Ex-SM).",
+    "supporting_chunk_id": "IPRC_chunk_1",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_055",
+    "split": "test",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "How many vacancies are available for Technician 'B' Machinist (Post Code 66) at IPRC?",
+    "ground_truth_answer": "03 vacancies (UR-02, SC-01), out of which 1 post is reserved for PwBD (Ortho).",
+    "supporting_chunk_id": "IPRC_chunk_1",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_056",
+    "split": "test",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "How many vacancies are notified for Fireman 'A' (Post Code 71) at IPRC Mahendragiri?",
+    "ground_truth_answer": "03 vacancies (UR-02, OBC-01), including 1 post reserved for Ex-Servicemen.",
+    "supporting_chunk_id": "IPRC_chunk_2",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_057",
+    "split": "test",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "What is the pay level and basic pay range for Technical Assistant (Post Codes 60 to 62) at IPRC?",
+    "ground_truth_answer": "Pay Matrix Level 07 (Rs. 44,900/- to Rs. 1,42,400/-).",
+    "supporting_chunk_id": "IPRC_chunk_2",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_058",
+    "split": "test",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "What is the minimum basic pay for Scientist/Engineer 'SC' in Level 10 of the Pay Matrix?",
+    "ground_truth_answer": "Minimum basic pay of Rs. 56,100/- per month plus DA, HRA, and Transport Allowance.",
+    "supporting_chunk_id": "ADVT_2708_chunk_12",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_059",
+    "split": "test",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What are the approximate gross emoluments (Basic Pay + DA) for Technical Assistant (Post Codes 07 to 11) at SDSC SHAR?",
+    "ground_truth_answer": "Rs. 71,840/- per month (Basic Pay + DA), plus HRA and Transport Allowance as per Govt. of India orders.",
+    "supporting_chunk_id": "SHAR_chunk_11",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_060",
+    "split": "test",
+    "category": "Vacancies & Reservation",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What are the approximate gross emoluments (Basic Pay + DA) for Multi-Tasking Staff (Post Code 29)?",
+    "ground_truth_answer": "Rs. 28,800/- per month (Basic Pay + DA), plus HRA and Transport Allowance.",
+    "supporting_chunk_id": "SHAR_chunk_12",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_061",
+    "split": "dev",
+    "category": "Age Limit & Relaxation",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "What is the upper age limit for Scientist/Engineer 'SC' under Advt No. ISRO ICRB:03(EMC):2026?",
+    "ground_truth_answer": "28 years as on 16-09-2026.",
+    "supporting_chunk_id": "ADVT_2708_chunk_3",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_062",
+    "split": "dev",
+    "category": "Age Limit & Relaxation",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "What is the cut-off date for calculating the age limit for Advt No. ISRO ICRB:03(EMC):2026?",
+    "ground_truth_answer": "16-09-2026.",
+    "supporting_chunk_id": "ADVT_2708_chunk_3",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_063",
+    "split": "dev",
+    "category": "Age Limit & Relaxation",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "Are serving Central Government civilian employees and Ex-servicemen eligible for age relaxation in ICRB:03(EMC):2026?",
+    "ground_truth_answer": "Yes, serving Central Government civilian employees, Ex-servicemen, and Persons with Benchmark Disabilities are eligible for age relaxation as per Government of India orders.",
+    "supporting_chunk_id": "ADVT_2708_chunk_3",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_064",
+    "split": "dev",
+    "category": "Age Limit & Relaxation",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What is the age limit for Technical Assistant and Technician 'B' (Post Codes 07 to 25) at SDSC SHAR?",
+    "ground_truth_answer": "18 to 35 years as on 09.11.2026.",
+    "supporting_chunk_id": "SHAR_chunk_12",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_065",
+    "split": "val",
+    "category": "Age Limit & Relaxation",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What is the age limit for Fireman 'A' (Post Code 26) and Multi-Tasking Staff (Post Code 29) at SDSC SHAR?",
+    "ground_truth_answer": "18 to 25 years as on 09.11.2026.",
+    "supporting_chunk_id": "SHAR_chunk_12",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_066",
+    "split": "val",
+    "category": "Age Limit & Relaxation",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What is the age limit for Light Vehicle Driver 'A' and Heavy Vehicle Driver 'A' (Post Codes 27, 28, and 30)?",
+    "ground_truth_answer": "18 to 35 years as on 09.11.2026.",
+    "supporting_chunk_id": "SHAR_chunk_12",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_067",
+    "split": "val",
+    "category": "Age Limit & Relaxation",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What is the cut-off date for age limit calculation in SDSC SHAR/RMT/03/2026?",
+    "ground_truth_answer": "09.11.2026.",
+    "supporting_chunk_id": "SHAR_chunk_12",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_068",
+    "split": "val",
+    "category": "Age Limit & Relaxation",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "How many years of upper age relaxation is given to SC/ST and OBC candidates at SDSC SHAR?",
+    "ground_truth_answer": "05 years for SC/ST candidates and 03 years for OBC candidates against posts reserved for these categories.",
+    "supporting_chunk_id": "SHAR_chunk_12",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_069",
+    "split": "test",
+    "category": "Age Limit & Relaxation",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What minimum disability percentage is required for PwBD candidates to get upper age relaxation at SDSC SHAR?",
+    "ground_truth_answer": "At least 40% relevant disability.",
+    "supporting_chunk_id": "SHAR_chunk_27",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_070",
+    "split": "test",
+    "category": "Age Limit & Relaxation",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "What is the age limit for Technical Assistant, Technician 'B', and Cook 'A' (Post Codes 60 to 68 & 70) at IPRC?",
+    "ground_truth_answer": "18 to 35 years as on 05.10.2026.",
+    "supporting_chunk_id": "IPRC_chunk_2",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_071",
+    "split": "test",
+    "category": "Age Limit & Relaxation",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "What is the age limit for Fireman 'A' (Post Code 71) at IPRC Mahendragiri?",
+    "ground_truth_answer": "18 to 25 years as on 05.10.2026.",
+    "supporting_chunk_id": "IPRC_chunk_2",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_072",
+    "split": "test",
+    "category": "Age Limit & Relaxation",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "What is the cut-off date for computation of age and experience in IPRC/RMT/2026/01?",
+    "ground_truth_answer": "05.10.2026.",
+    "supporting_chunk_id": "IPRC_chunk_10",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_073",
+    "split": "test",
+    "category": "Age Limit & Relaxation",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "What is the upper age relaxation for SC/ST and OBC candidates at IPRC Mahendragiri?",
+    "ground_truth_answer": "5 years for SC/ST and 3 years for OBC if the post is reserved for that category.",
+    "supporting_chunk_id": "IPRC_chunk_2",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_074",
+    "split": "test",
+    "category": "Age Limit & Relaxation",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "Are widows and divorced women eligible for upper age relaxation at IPRC?",
+    "ground_truth_answer": "Yes, widows, divorced women, and women judicially separated from their husbands who are not remarried are eligible for upper age relaxation as per Government of India orders.",
+    "supporting_chunk_id": "IPRC_chunk_2",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_075",
+    "split": "test",
+    "category": "Age Limit & Relaxation",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "How do Physical Efficiency Test (PET) qualifying standards differ for Fireman 'A' candidates above 40 years of age?",
+    "ground_truth_answer": "For candidates above 40 years, the 1500m run limit increases from 7 to 8 minutes (male) and 800m run from 4 to 5 minutes (female/transgender), with adjusted standards for rope climbing, dummy carry, long jump, and 100m run.",
+    "supporting_chunk_id": "IPRC_chunk_6",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_076",
+    "split": "test",
+    "category": "Age Limit & Relaxation",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "Is presbyopia vision correction allowed for Fireman 'A' candidates above 40 years of age?",
+    "ground_truth_answer": "Yes, presbyopia correction is allowed for candidates above 40 years of age.",
+    "supporting_chunk_id": "IPRC_chunk_4",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_077",
+    "split": "test",
+    "category": "Age Limit & Relaxation",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "In case of a tie in Written Test marks for Technical Assistant at SDSC SHAR, how is age used?",
+    "ground_truth_answer": "The first tie-breaker is academic scores of the essential qualification; the second tie-breaker is the age of the candidate, where the senior (older) candidate is placed ahead.",
+    "supporting_chunk_id": "SHAR_chunk_14",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_078",
+    "split": "test",
+    "category": "Age Limit & Relaxation",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "How is a tie broken for Multi-Tasking Staff (MTS) empanelment at SDSC SHAR?",
+    "ground_truth_answer": "First by marks scored in Reasoning ability and Problem solving, and second by Date of Birth, with the older candidate placed higher.",
+    "supporting_chunk_id": "SHAR_chunk_20",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_079",
+    "split": "test",
+    "category": "Age Limit & Relaxation",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "How is a tie resolved in final panel generation for Scientist/Engineer 'SC'?",
+    "ground_truth_answer": "First by Written Test/CBT marks, second by essential qualification marks, and third by Date of Birth with older candidates placed higher.",
+    "supporting_chunk_id": "ADVT_2708_chunk_11",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_080",
+    "split": "test",
+    "category": "Age Limit & Relaxation",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "What should a candidate do if the portal gives an age error because they passed 10th before age 15 and B.Tech before age 21?",
+    "ground_truth_answer": "Contact the ICRB Cell on the helpline numbers (080-22172264/22172260/22172259) between 10:00 AM and 6:00 PM (Monday to Friday).",
+    "supporting_chunk_id": "FAQS_chunk_37",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_081",
+    "split": "test",
+    "category": "Age Limit & Relaxation",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "Are meritorious sportspersons eligible for upper age relaxation in SDSC SHAR/RMT/03/2026?",
+    "ground_truth_answer": "Yes, meritorious sportspersons are eligible for upper age relaxation as per Government of India orders.",
+    "supporting_chunk_id": "SHAR_chunk_12",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_082",
+    "split": "test",
+    "category": "Age Limit & Relaxation",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "Are Ex-Servicemen eligible for age relaxation in Scientist/Engineer 'SC' recruitment?",
+    "ground_truth_answer": "Yes, age relaxation is provided to Ex-servicemen as per Government of India orders.",
+    "supporting_chunk_id": "FAQS_chunk_17",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_083",
+    "split": "dev",
+    "category": "Fees, Dates & Selection",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "What are the opening and closing dates for online registration under Advt No. ISRO ICRB:03(EMC):2026?",
+    "ground_truth_answer": "Online registration opens on 27-08-2026 and closes on 16-09-2026 at 11:55 PM.",
+    "supporting_chunk_id": "ADVT_2708_chunk_5",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_084",
+    "split": "dev",
+    "category": "Fees, Dates & Selection",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "How much processing fee must a female or SC/ST/PwBD/Ex-Servicemen candidate pay initially for Scientist/Engineer 'SC', and how much is refunded?",
+    "ground_truth_answer": "All candidates initially pay Rs. 750/- as processing fee; exempted candidates (women, SC/ST, PwBD, Ex-Servicemen) receive a full refund of Rs. 750/- if they appear in the written test.",
+    "supporting_chunk_id": "FAQS_chunk_4",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_085",
+    "split": "dev",
+    "category": "Fees, Dates & Selection",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "How much application fee is deducted for Male (General/OBC) candidates in ICRB:03(EMC):2026?",
+    "ground_truth_answer": "Rs. 250/- non-refundable application fee is deducted, and Rs. 500/- is refunded out of the Rs. 750/- processing fee if the candidate appears in the written test.",
+    "supporting_chunk_id": "FAQS_chunk_3",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_086",
+    "split": "dev",
+    "category": "Fees, Dates & Selection",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "Is offline payment via Demand Draft or Challan allowed for ISRO ICRB:03(EMC):2026?",
+    "ground_truth_answer": "No, there is no option for offline payment; fees are collected only online via the Bharatkosh portal (Internet Banking, UPI, or Domestic Debit Cards).",
+    "supporting_chunk_id": "FAQS_chunk_14",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_087",
+    "split": "val",
+    "category": "Fees, Dates & Selection",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "What is the negative marking scheme in Part A and Part B of the Scientist/Engineer 'SC' Written Test?",
+    "ground_truth_answer": "In Part A (80 MCQs), +1 mark is awarded for correct answers and -1/3 mark is deducted for wrong answers. In Part B (Aptitude, max 15 MCQs, 20 marks), there is no negative marking.",
+    "supporting_chunk_id": "ADVT_2708_chunk_11",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_088",
+    "split": "val",
+    "category": "Fees, Dates & Selection",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "What weightage is given to Written Test and Interview in generating the final panel for Scientist/Engineer 'SC'?",
+    "ground_truth_answer": "50% weightage to Written Test marks and 50% weightage to Interview marks.",
+    "supporting_chunk_id": "ADVT_2708_chunk_11",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_089",
+    "split": "val",
+    "category": "Fees, Dates & Selection",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "Can a candidate edit their submitted online application or change their Written Test centre?",
+    "ground_truth_answer": "No, there is no provision to edit details or change the Written Test centre after submission. Candidates may submit a fresh application before 16.09.2026, and the latest application will be treated as final.",
+    "supporting_chunk_id": "FAQS_chunk_12",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_090",
+    "split": "val",
+    "category": "Fees, Dates & Selection",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "Do candidates working in a private sector company or MNC need to submit a No Objection Certificate (NOC)?",
+    "ground_truth_answer": "No, private sector/MNC employees do not need to submit an NOC.",
+    "supporting_chunk_id": "FAQS_chunk_8",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_091",
+    "split": "test",
+    "category": "Fees, Dates & Selection",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What are the opening and closing dates for online registration in SDSC SHAR/RMT/03/2026?",
+    "ground_truth_answer": "Online registration opens on 19.10.2026 (10:00 Hrs) and closes on 09.11.2026 (23:59 Hrs).",
+    "supporting_chunk_id": "SHAR_chunk_21",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_092",
+    "split": "test",
+    "category": "Fees, Dates & Selection",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What is the processing fee and refund structure for Post Codes 07 to 15 vs Post Codes 16 to 30 at SDSC SHAR?",
+    "ground_truth_answer": "For Post Codes 07-15, processing fee is Rs. 750/- (full refund for women/SC/ST/PwBD/Ex-SM; Rs. 500/- refund for others). For Post Codes 16-30, processing fee is Rs. 500/- (full refund for exempted categories; Rs. 400/- refund for others), provided they appear in the written test.",
+    "supporting_chunk_id": "SHAR_chunk_23",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_093",
+    "split": "test",
+    "category": "Fees, Dates & Selection",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What is the exam pattern and negative marking for Technical Assistant and Technician 'B' at SDSC SHAR?",
+    "ground_truth_answer": "80 MCQs in 1.5 hours with +1 mark for each correct answer and -0.33 mark deducted for each wrong answer.",
+    "supporting_chunk_id": "SHAR_chunk_13",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_094",
+    "split": "test",
+    "category": "Fees, Dates & Selection",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "Are Skill Test marks added to the final merit list at SDSC SHAR?",
+    "ground_truth_answer": "No, the Skill Test is purely on a 'go-no-go' qualifying basis and its marks are not considered for final selection.",
+    "supporting_chunk_id": "SHAR_chunk_13",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_095",
+    "split": "test",
+    "category": "Fees, Dates & Selection",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What is the written test pattern for Multi-Tasking Staff (MTS) at SDSC SHAR?",
+    "ground_truth_answer": "100 objective questions across Numerical Ability, Reasoning, General Awareness, and English in 90 minutes, with +1 mark for correct answers and -0.25 negative marking for wrong answers.",
+    "supporting_chunk_id": "SHAR_chunk_19",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_096",
+    "split": "test",
+    "category": "Fees, Dates & Selection",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What is the minimum qualifying mark in the Skill Test for Light and Heavy Vehicle Drivers at SDSC SHAR?",
+    "ground_truth_answer": "Minimum 60% marks for all candidates, with no relaxation for any reserved category (SC/ST/OBC).",
+    "supporting_chunk_id": "SHAR_chunk_18",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_097",
+    "split": "test",
+    "category": "Fees, Dates & Selection",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "What are the online application opening and closing dates for IPRC Advertisement No. IPRC/RMT/2026/01?",
+    "ground_truth_answer": "Opening date: 15.09.2026 (10:00 Hrs); Closing date: 05.10.2026 (16:00 Hrs).",
+    "supporting_chunk_id": "IPRC_chunk_6",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_098",
+    "split": "test",
+    "category": "Fees, Dates & Selection",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "Which cities will host the offline OMR Written Test for IPRC Mahendragiri recruitment?",
+    "ground_truth_answer": "Tirunelveli and Chennai.",
+    "supporting_chunk_id": "IPRC_chunk_3",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_099",
+    "split": "test",
+    "category": "Fees, Dates & Selection",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "In which languages will the Written Test and Skill Test question papers be set at IPRC?",
+    "ground_truth_answer": "Bilingual (English, Hindi) for Post Codes 60 to 62, and Trilingual (Tamil, Hindi, English) for Post Codes 63 to 68 and 70 to 71.",
+    "supporting_chunk_id": "IPRC_chunk_3",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_100",
+    "split": "test",
+    "category": "Fees, Dates & Selection",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "Are selected Fireman 'A' candidates at IPRC required to stay in staff quarters?",
+    "ground_truth_answer": "Yes, selected candidates for Fireman 'A' must mandatorily stay in Essential Staff Quarters, IPRC.",
+    "supporting_chunk_id": "IPRC_chunk_6",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_101",
+    "split": "test",
+    "category": "Fees, Dates & Selection",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "Is Travelling Allowance paid for attending the Written Test at SDSC SHAR?",
+    "ground_truth_answer": "No Travelling Allowance is paid for attending the Written Test; TA (to and fro sleeper class rail or non-AC bus fare) is only paid to outstation candidates attending the Skill Test/Interview.",
+    "supporting_chunk_id": "SHAR_chunk_26",
+    "answerable": "Yes"
+  },
+  {
+    "query_id": "FAQ_102",
+    "split": "dev",
+    "category": "Out-of-Scope / Unanswerable",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "What is the negative marking penalty for wrong answers during the personal interview?",
+    "ground_truth_answer": "This information is not specified in the uploaded ISRO recruitment notification.",
+    "supporting_chunk_id": "N/A",
+    "answerable": "No"
+  },
+  {
+    "query_id": "FAQ_103",
+    "split": "dev",
+    "category": "Out-of-Scope / Unanswerable",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "What is the minimum GATE score required to apply for Scientist/Engineer 'SC' under Advt No. ISRO ICRB:03(EMC):2026?",
+    "ground_truth_answer": "This information is not specified in the uploaded ISRO recruitment notification.",
+    "supporting_chunk_id": "N/A",
+    "answerable": "No"
+  },
+  {
+    "query_id": "FAQ_104",
+    "split": "dev",
+    "category": "Out-of-Scope / Unanswerable",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "What is the exact date of the Written Test/CBT for Advt No. ISRO ICRB:03(EMC):2026?",
+    "ground_truth_answer": "This information is not specified in the uploaded ISRO recruitment notification.",
+    "supporting_chunk_id": "N/A",
+    "answerable": "No"
+  },
+  {
+    "query_id": "FAQ_105",
+    "split": "dev",
+    "category": "Out-of-Scope / Unanswerable",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "How many years is the mandatory service bond amount for Scientist/Engineer 'SC'?",
+    "ground_truth_answer": "This information is not specified in the uploaded ISRO recruitment notification.",
+    "supporting_chunk_id": "N/A",
+    "answerable": "No"
+  },
+  {
+    "query_id": "FAQ_106",
+    "split": "val",
+    "category": "Out-of-Scope / Unanswerable",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "Are Civil Engineering B.E./B.Tech graduates eligible to apply under Advt No. ISRO ICRB:03(EMC):2026?",
+    "ground_truth_answer": "This information is not specified in the uploaded ISRO recruitment notification.",
+    "supporting_chunk_id": "N/A",
+    "answerable": "No"
+  },
+  {
+    "query_id": "FAQ_107",
+    "split": "val",
+    "category": "Out-of-Scope / Unanswerable",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "When will the final interview results and joining letters be released for ICRB:03(EMC):2026?",
+    "ground_truth_answer": "This information is not specified in the uploaded ISRO recruitment notification.",
+    "supporting_chunk_id": "N/A",
+    "answerable": "No"
+  },
+  {
+    "query_id": "FAQ_108",
+    "split": "val",
+    "category": "Out-of-Scope / Unanswerable",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What is the exact date and shift timing of the CBT Written Test for SDSC SHAR/RMT/03/2026?",
+    "ground_truth_answer": "This information is not specified in the uploaded ISRO recruitment notification.",
+    "supporting_chunk_id": "N/A",
+    "answerable": "No"
+  },
+  {
+    "query_id": "FAQ_109",
+    "split": "val",
+    "category": "Out-of-Scope / Unanswerable",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What is the topic-wise syllabus weightage for Technical Assistant (Computer Science) Post Code 09?",
+    "ground_truth_answer": "This information is not specified in the uploaded ISRO recruitment notification.",
+    "supporting_chunk_id": "N/A",
+    "answerable": "No"
+  },
+  {
+    "query_id": "FAQ_110",
+    "split": "test",
+    "category": "Out-of-Scope / Unanswerable",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "How many vacancies are reserved for OBC candidates in Post Code 09 Computer Science at SDSC SHAR?",
+    "ground_truth_answer": "This information is not specified in the uploaded ISRO recruitment notification.",
+    "supporting_chunk_id": "N/A",
+    "answerable": "No"
+  },
+  {
+    "query_id": "FAQ_111",
+    "split": "test",
+    "category": "Out-of-Scope / Unanswerable",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "Is free accommodation provided during the Written Test in Sriharikota?",
+    "ground_truth_answer": "This information is not specified in the uploaded ISRO recruitment notification.",
+    "supporting_chunk_id": "N/A",
+    "answerable": "No"
+  },
+  {
+    "query_id": "FAQ_112",
+    "split": "test",
+    "category": "Out-of-Scope / Unanswerable",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What was the previous cycle's cut-off marks for Multi-Tasking Staff (MTS) at SDSC SHAR?",
+    "ground_truth_answer": "This information is not specified in the uploaded ISRO recruitment notification.",
+    "supporting_chunk_id": "N/A",
+    "answerable": "No"
+  },
+  {
+    "query_id": "FAQ_113",
+    "split": "test",
+    "category": "Out-of-Scope / Unanswerable",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "Can a candidate with a 2-year ITI certificate apply directly for Technical Assistant Post Code 07?",
+    "ground_truth_answer": "This information is not specified in the uploaded ISRO recruitment notification.",
+    "supporting_chunk_id": "N/A",
+    "answerable": "No"
+  },
+  {
+    "query_id": "FAQ_114",
+    "split": "test",
+    "category": "Out-of-Scope / Unanswerable",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "What is the exact date of the offline OMR Written Test at IPRC Mahendragiri?",
+    "ground_truth_answer": "This information is not specified in the uploaded ISRO recruitment notification.",
+    "supporting_chunk_id": "N/A",
+    "answerable": "No"
+  },
+  {
+    "query_id": "FAQ_115",
+    "split": "test",
+    "category": "Out-of-Scope / Unanswerable",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "How many days of earned leave and casual leave are granted per year to Technician 'B' at IPRC?",
+    "ground_truth_answer": "This information is not specified in the uploaded ISRO recruitment notification.",
+    "supporting_chunk_id": "N/A",
+    "answerable": "No"
+  },
+  {
+    "query_id": "FAQ_116",
+    "split": "test",
+    "category": "Out-of-Scope / Unanswerable",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "Is there a typing speed test required for Technician 'B' Welder (Post Code 65) at IPRC?",
+    "ground_truth_answer": "This information is not specified in the uploaded ISRO recruitment notification.",
+    "supporting_chunk_id": "N/A",
+    "answerable": "No"
+  },
+  {
+    "query_id": "FAQ_117",
+    "split": "test",
+    "category": "Out-of-Scope / Unanswerable",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "What is the promotional hierarchy and minimum residency period from Technician 'B' to Technician 'C'?",
+    "ground_truth_answer": "This information is not specified in the uploaded ISRO recruitment notification.",
+    "supporting_chunk_id": "N/A",
+    "answerable": "No"
+  },
+  {
+    "query_id": "FAQ_118",
+    "split": "test",
+    "category": "Out-of-Scope / Unanswerable",
+    "advt_no": "ISRO:IPRC:01:2026",
+    "faq_question": "Are candidates from outside Tamil Nadu required to pass a Tamil language proficiency test for IPRC?",
+    "ground_truth_answer": "This information is not specified in the uploaded ISRO recruitment notification.",
+    "supporting_chunk_id": "N/A",
+    "answerable": "No"
+  },
+  {
+    "query_id": "FAQ_119",
+    "split": "test",
+    "category": "Out-of-Scope / Unanswerable",
+    "advt_no": "ISRO:ICRB:03:2026",
+    "faq_question": "Can final-year B.Tech students awaiting their 8th-semester results apply for Scientist/Engineer 'SC'?",
+    "ground_truth_answer": "This information is not specified in the uploaded ISRO recruitment notification.",
+    "supporting_chunk_id": "N/A",
+    "answerable": "No"
+  },
+  {
+    "query_id": "FAQ_120",
+    "split": "test",
+    "category": "Out-of-Scope / Unanswerable",
+    "advt_no": "ISRO:SDSC_SHAR:03:2026",
+    "faq_question": "What is the probation period duration in months for Technician 'B' selected at SDSC SHAR?",
+    "ground_truth_answer": "This information is not specified in the uploaded ISRO recruitment notification.",
+    "supporting_chunk_id": "N/A",
+    "answerable": "No"
+  }
+]
