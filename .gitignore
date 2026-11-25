@@ -1,0 +1,12 @@
+# Environment & Secrets
+.env
+venv/
+.venv/
+
+# Vector Database & Caches
+isro_vectordb/
+isro_faq_cache.sqlite
+*.sqlite
+__pycache__/
+*.pyc
+.DS_Store
